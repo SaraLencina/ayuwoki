@@ -1,21 +1,31 @@
 body {
-    width: 200px;
-    height: 200px;
-    color: rgb(41, 70, 233);
+
+    color: rgb(233, 111, 41);
     background-color: rgb(203, 179, 226);
+    text-align: center;
     
 }
 ul {
 display: grid;
+color: peru;
+text-align: center;
 }
 .imagenes { 
     display: grid;
 }
 .ayuwoki img {
-    height: 200px;
-    width: 200px;
+    height: 308px;
+    width: 231px;
 }
 .robertpattinson img {
-    height: 200px;
-    width: 200px;
+    height: 220px;
+    width: 320px;
 }
+h1 {
+    font-style: normal;
+    font-size: 5em;
+    color: white;
+    text-align: center;
+}
+.ayuwokiysara img {height: 308px;
+    width: 231px;

@@ -1,0 +1,21 @@
+body {
+    width: 200px;
+    height: 200px;
+    color: rgb(41, 70, 233);
+    background-color: rgb(203, 179, 226);
+    
+}
+ul {
+display: grid;
+}
+.imagenes { 
+    display: grid;
+}
+.ayuwoki img {
+    height: 200px;
+    width: 200px;
+}
+.robertpattinson img {
+    height: 200px;
+    width: 200px;
+}

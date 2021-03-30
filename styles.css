@@ -22,10 +22,14 @@ text-align: center;
     width: 320px;
 }
 h1 {
-    font-style: normal;
+    font-style:italic;
     font-size: 5em;
     color: white;
     text-align: center;
 }
 .ayuwokiysara img {height: 308px;
-    width: 231px;
+    width: 231px;}
+h3 {
+    color: rgb(135, 14, 248);
+}
+
